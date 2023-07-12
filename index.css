@@ -1,0 +1,75 @@
+
+.name-box{
+ display: flex;
+ gap: 25%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+p{
+    padding: 0;
+
+}
+.table{
+    border: 2px solid black;
+    font-size:14px;
+}
+th,td{
+    border: 1px solid black;
+}
+pre{
+    font-size: 13px;
+    margin-top: -4px;
+}
+.Experience{
+    display:flex;
+    gap: 24%;
+    /* font-size: 14px; */
+    margin-top: -20px;
+}
+.expert{
+    font-size: 16px;
+    margin-top: 9px;
+}
+.about{
+    padding: 0;
+    margin-top: -14px;
+}
+.Project1{
+    display: flex;
+    gap: 25%;
+    margin-top: -20px;
+    padding-top: -20px;
+}
+.Project2{
+    display: flex;
+    gap: 20%;
+    margin-top: -20px;
+    padding-top: -20px;
+}
+.Pro{
+    margin-top: -2px;
+}
+.Tech{
+    margin-top: -4px;
+}
+.TS{
+    margin-top: -7px;
+}
+.Certi{
+    margin-top: -7px ;
+}
+#Tec{
+    margin-top: -5px;
+    padding-top: -50px;
+}
+#Tec1{
+    margin-top: 10px;
+    padding-top: -50px;
+}
+.space, li{
+    margin: 5px;
+}
